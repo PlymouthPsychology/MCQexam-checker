@@ -9,7 +9,7 @@ and allows you to scale to grades by setting min A+ and min Pass
  This potentially allows us to check how scores would change if poor items
  were removed from the test.
 
- # MCQitems.R
+ # ItemAnalyse.R
  Reads the item analysis PDF and extracts data for each item to allow
  staff to identify weak items.
 
